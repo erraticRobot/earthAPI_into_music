@@ -46,5 +46,5 @@ for l in list:
     curr_time = time.gmtime(curr_time / 1000)
     updated_time = time.gmtime(updated_time / 100)
 
-    print(f"magnitude: {magnitude}, time: {time.asctime(curr_time)}, updated_time: {time.asctime(updated_time)}, gap: {gap}, magnitude_type: {magnitude_type}, type: {type1}")
+    print(f"magnitude: {magnitude}, time of uccurrence: {time.asctime(curr_time)}, updated_time: {time.asctime(updated_time)}, gap: {gap}, magnitude_type: {magnitude_type}, type: {type1}")
 
