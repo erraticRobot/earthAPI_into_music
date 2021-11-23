@@ -4,4 +4,3 @@ Taking various API's and turning them into music.
 
     a) USGS Government Earthquaked API  ( URL = https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson )
 
-    b)
